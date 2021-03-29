@@ -1,6 +1,6 @@
 # Kyumiya
 
-[Canvas-Castle](https://tcssh611503.github.io/Kyumiya/index.html)
+[Kyumiya](https://tcssh611503.github.io/Kyumiya/index.html)
 
 ![](https://i.imgur.com/kmCzLvf.png)
 
